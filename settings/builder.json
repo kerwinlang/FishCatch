@@ -1,0 +1,43 @@
+{
+  "title": "Fish_Catch",
+  "packageName": "",
+  "startScene": "ec5c3e1a-a4c6-4700-9f29-710e08fefc4c",
+  "excludeScenes": [],
+  "includeSDKBox": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "webOrientation": "auto",
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "md5Cache": false,
+  "encryptJs": true,
+  "xxteaKey": "627a575c-4102-47",
+  "zipCompressJs": true,
+  "fb-instant-games": {},
+  "android": {
+    "packageName": ""
+  },
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "win32": {},
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false
+}

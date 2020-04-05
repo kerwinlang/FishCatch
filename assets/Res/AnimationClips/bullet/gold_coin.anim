@@ -1,0 +1,79 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "gold_coin",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.16666666666666666,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "3dc7a1a1-656b-4111-9835-baaf9fb4281c"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "571d6217-2bac-4f3d-959b-11fba7552a36"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "b4d219b2-ef19-46a7-bb6f-f3e7dbec0cd6"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "421607f4-9400-4794-819a-713dcf4503cf"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "6d0882bb-8080-48ca-ade7-5bef0bb04176"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "fd63f91e-d11c-4a7b-b482-6aa0e91e71fb"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "14217c36-4f48-4e0f-bbcd-cc57f2eb8a91"
+            }
+          },
+          {
+            "frame": 0.11666666666666667,
+            "value": {
+              "__uuid__": "8fd7c091-20a1-41bf-b173-20e9ec89777d"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "3469250e-6e50-43ef-9847-1067f387f31d"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "1f8b2a47-a82e-4664-a79b-85c6cbc0fb2c"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

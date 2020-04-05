@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fortlight",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 0.3,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "3dc1503c-eb41-4a7b-8186-33d1f0742f13"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "9cbbf54c-824d-4f87-a06f-bdfa07863f5e"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "dad4c557-3f11-41b1-aa02-50528c6c063d"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "25e659bf-620f-4800-a5ad-83ab4404f0e0"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

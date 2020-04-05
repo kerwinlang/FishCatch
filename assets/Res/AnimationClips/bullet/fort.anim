@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fort",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.1,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "c614104e-c127-42fe-a697-b6a7253000b6"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "6eb59df5-5a7c-4a91-bf61-d6d416fbbeb2"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "7eb98658-c820-4779-8942-3ec3efc466d1"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "f728fad3-5be0-4bd9-a0c0-a386d2c770e8"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "cb4b1620-f56a-4cd9-b180-bf0cfbdb05f8"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "c7273e9e-8f25-4323-961c-6b19af71f29a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
